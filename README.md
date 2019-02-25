@@ -25,3 +25,12 @@ To test project
 ```
 make test
 ```
+
+To check the code for flake8 and isort
+
+```
+make flake
+make isort
+```
+
+Project uses [hunter API](https://hunter.io/api/v2/docs) to verify emails
