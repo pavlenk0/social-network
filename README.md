@@ -19,3 +19,9 @@ cd social-network
 make install
 make run
 ```
+
+To test project
+
+```
+make test
+```
